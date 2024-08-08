@@ -1,0 +1,9 @@
+[APIS]
+lineups = 
+status = https://api.cartola.globo.com/mercado/status
+save = https://api.cartola.globo.com/auth/time/salvar
+team = https://api.cartola.globo.com/time/id
+
+[TEAM_KEYS]
+valuation = 
+scoring = 
